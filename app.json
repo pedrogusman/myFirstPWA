@@ -1,0 +1,7 @@
+
+  "name": "My First Ionic PWA",
+  "description": "A simple Ionic PWA for Heroku",
+  "repository": "https://github.com/driftyco/ionic-heroku-button",
+  "logo": "http://ionicframework.com/img/ionic-logo-blog.png",
+  "keywords": ["ionic", "static"]
+}
